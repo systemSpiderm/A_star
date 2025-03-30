@@ -1,4 +1,4 @@
-# <center>五子棋--博弈树搜索 Alpha-beta 剪枝
+# <center>A_star 和 IDA_star 寻找15puzzle问题的最优解
 
 ## 效果展示
 ![](img.png)
